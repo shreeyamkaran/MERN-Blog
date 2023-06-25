@@ -32,7 +32,7 @@ export default function Header() {
             }
             <header>
             <div className="logo">
-                <Link to="/">Bloggs</Link>
+                <Link to="/">Blogs</Link>
             </div>
             {
                 username? (
